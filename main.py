@@ -11,7 +11,7 @@ def sum_of_products(list1, list2):
                         
                         return list5
         else:
-             return 'error'
+             return 'error'   
         
 if __name__ == '__main__':
    #REMOVE PASS AND YOUR CODE GOES HERE
