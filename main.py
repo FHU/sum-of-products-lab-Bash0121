@@ -1,4 +1,5 @@
 #REMOVE PASS AND FIX THE FUNCTION
+#change to test push and forks
 def sum_of_products(list1, list2):
      total=0
      for i in range(0, len(list2), 2):
