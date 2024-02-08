@@ -3,6 +3,9 @@
 def sum_of_products(list1, list2):
    total=0
    for i in range(len(list1)):
+       
+       
+       
          product=int(list1[i])*int(list2[i])
          total+=product
    return total
